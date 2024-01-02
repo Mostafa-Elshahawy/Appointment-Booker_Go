@@ -1,8 +1,10 @@
 # Interview-Manager
 
 - Appointment Booking app typically for managers with a lot of appointments throughout the day 
-- Used fiber framework, gorm for database models (ORM) with sqlite, sessions for authentication
-  
+- Used go fiber framework, gorm for database models (ORM) with sqlite, jwt for authentication
+- The app has a very simple UI for users written in HTML, CSS and js
+
+  # How the app works:
 - The user first identifies the position as there are different pages for each user:
 The employees(receptionist or secretary) have more options as they create the appointments
 The managers only can see the appointments assigned to them and then react to them by approving, rejecting or updating
