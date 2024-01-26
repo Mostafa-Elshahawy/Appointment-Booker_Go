@@ -1,4 +1,4 @@
-# Interview-Manager
+# Appointment-Manager
 
 - Appointment Booking app typically for managers with a lot of appointments throughout the day 
 - Used go fiber framework, gorm for database models (ORM) with sqlite, jwt for authentication
