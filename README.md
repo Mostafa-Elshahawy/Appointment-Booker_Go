@@ -1,6 +1,7 @@
 # Appointments-Manager
 
 - Appointment Booking app typically for managers with a lot of appointments throughout the day 
+- Uses MVC design pattern
 - Used go fiber framework, gorm for database models (ORM) with sqlite, jwt for authentication
 - The app has a very simple UI for users written in HTML, CSS and js
 
